@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
 - name: Department of Experimental Psychology, Ghent University
-  url: ""
+  url: "https://www.ugent.be/pp/experimentele-psychologie/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include decision-making, reward processing, and motor control.
