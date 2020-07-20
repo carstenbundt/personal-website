@@ -31,6 +31,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
 #  description = "100%"  
+
+[[feature]]
+  icon = "flask"
+  icon_pack = "fa"
+  name = "Research"
   
 
 
