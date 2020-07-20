@@ -61,7 +61,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Carsten_Bundt
-- icon: linked-in
+- icon: linkedin-in
   icon_pack: fab
   link: www.linkedin.com/in/carsten-b-2a8806194
   
