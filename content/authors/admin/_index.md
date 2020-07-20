@@ -56,7 +56,10 @@ social:
   link: https://github.com/carstenbundt
 - icon: osf
   icon_pack: ai
-  link: www.google.com
+  link: https://osf.io/gkr9n/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Carsten_Bundt
   
   
 # Link to a PDF of your resume/CV from the About widget.
