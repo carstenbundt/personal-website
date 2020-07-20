@@ -25,9 +25,6 @@ interests:
 - Reward processing
 - Motor control
 
-interests:
-- blabla
-
 education:
   courses:
   - course: PhD in Psychology
