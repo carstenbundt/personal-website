@@ -80,8 +80,3 @@ user_groups:
 ---
 
 Carsten Bundt is a post-doctoral researcher in the Department of Experimental Psychology at Ghent University, Ghent, Belgium. His research interests include decision-making, reward processing, and motor control. 
-#```python
-## Example of code highlighting
-#input_string_var = input("Enter some data: ")
-#print("You entered: {}".format(input_string_var))
-#```
