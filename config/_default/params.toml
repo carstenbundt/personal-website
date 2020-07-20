@@ -100,11 +100,11 @@ address = {street = "Henri Dunantlaan 2", city = "Ghent", region = "", postcode 
 coordinates = {latitude = "51.048947", longitude = "3.704040"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [""]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
