@@ -14,6 +14,13 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+# Slider widget.
+widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
+
+
 [[item]]
 [[feature]]
   icon = "python"
