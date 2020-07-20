@@ -37,8 +37,6 @@ education:
     institution: Twente University, Enschede, The Netherlands
     year: 2011
     
-test:
-- test
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
