@@ -85,4 +85,4 @@ user_groups:
 - Visitors
 ---
 
-Carsten Bundt is a post-doctoral researcher in the Department of Experimental Psychology at Ghent University, Ghent, Belgium. His research interests include decision-making, reward processing, and motor control. 
+I am a post-doctoral researcher in the Department of Experimental Psychology at Ghent University, Ghent, Belgium. My research interests include decision-making, reward processing, and motor control. 
