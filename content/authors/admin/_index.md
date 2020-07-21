@@ -24,6 +24,10 @@ interests:
 - Decision-making
 - Reward processing
 - Motor control
+- Data science
+- Machine learning
+- Open Science
+- Advocate of slow science url: "http://slow-science.org/"
 
 education:
   courses:
