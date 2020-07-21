@@ -28,7 +28,7 @@ interests:
 - Machine learning
 - Open Science
 - Advocate of slow science 
-#  url: "https://slow-science.org/"
+  link: "https://slow-science.org/"
 
 education:
   courses:
