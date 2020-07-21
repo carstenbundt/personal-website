@@ -26,7 +26,7 @@ interests:
 - Motor control
 - Data science
 - Machine learning
-- Open and [Slow](http://slow-science.org) science
+- [Open] and [Slow](http://slow-science.org) science
 
 education:
   courses:
