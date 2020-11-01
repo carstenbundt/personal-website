@@ -14,8 +14,8 @@ role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Experimental Psychology, Ghent University
-  url: "https://www.ugent.be/pp/experimentele-psychologie/en"
+- name: Department of Psychology, University of Oslo
+  url: "https://www.sv.uio.no/psi/english/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include decision-making, reward processing, and motor control.
@@ -54,7 +54,7 @@ social:
   link: https://twitter.com/neuronculus
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.be/citations?user=XVWNeUUAAAAJ&hl=de&oi=ao
+  link: https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=de&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/carstenbundt
