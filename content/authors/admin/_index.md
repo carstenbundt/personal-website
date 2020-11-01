@@ -85,4 +85,4 @@ user_groups:
 - Visitors
 ---
 
-I am a post-doctoral researcher at the Department of Experimental Psychology at Ghent University (Belgium). My research interests include decision-making, reward processing, and motor control. 
+I am a post-doctoral researcher at the Department of Psychology at the University of Oslo (Norway). My research interests include decision-making, reward processing, and motor control. 
