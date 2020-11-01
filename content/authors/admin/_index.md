@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:carsten.bundt@ugent.be" #"'#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:carsten.bundt@psykologi.uio.no" #"'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/neuronculus
